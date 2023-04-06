@@ -25,7 +25,11 @@ YOU HAVE TO USE GITHUB API TO FETCH GITHUB PROFILE DATA FROM GITHUB-API
 
 ## LIVE LINK
 
-![Github]() <br>
-![Deploy]()
+[Github-Link](https://github.com/MANIPIYUSH/Github-profile-data) <br>
+[Deploy-Link](
+https://githubdata.netlify.app/)
 
 ### Developed By Piyush Mani Chaubey
+
+[My Portfolio](https://piyush-mani-chaubey.netlify.app/)<br>
+[Linkedin](https://www.linkedin.com/in/piyush-mani-chaubey-42b338a3/)
